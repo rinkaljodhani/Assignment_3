@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz_Assignment</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="q1">Montral is the Capital of Canada</string>
+    <string name="q2">Our Planet name is Earth.</string>
+    <string name="q3">Helloween festival is on 31st october.</string>
+    <string name="q4">White color code is #ffffff</string>
+    <string name="q5">Your Professor name is Rania.</string>
+    <string name="q6">You are from Humberg collage.</string>
+    <string name="q7">CN tower\'s full name is Canadian National Tower.</string>
+    <string name="q8">Narendra Modi is Pm of Canada.</string>
+    <string name="q9">Our planet is Trinagle.</string>
+    <string name="q10">Hexagon has 6 sides</string>
+    <string name="result">Result</string>
+    <string name="string_result1"> Your Score is </string>
+    <string name="string_result2"> out of </string>
+    <string name="ignore">IGNORE</string>
+    <string name="save">SAVE</string>
+    <string name="get_the_average">Get the Average</string>
+    <string name="select_the_number_of_question">Select the number of Question</string>
+    <string name="reset_the_result">Reset the Result</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">inCorrect</string>
+    <string name="string_correctanswer">Your Correct answer are</string>
+    <string name="string_in">in</string>
+    <string name="string_attempts">attempts</string>
+    <string name="string_nothing">There is nothing in file</string>
+    <string name="ok">Ok</string>
+</resources>

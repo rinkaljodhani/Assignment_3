@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">क्विझ_असाइनमेंट</string>
+    <string name="True">खरे</string>
+    <string name="False">असत्य</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="q1">मॉन्ट्रल ही कॅनडाची राजधानी आहे</string>
+    <string name="q2">आपल्या ग्रहाचे नाव पृथ्वी आहे</string>
+    <string name="q3">31 ऑक्टोबर रोजी हेलोवीन सण आहे</string>
+    <string name="q4">पांढरा रंग कोड #ffffff आहे</string>
+    <string name="q5">तुमच्या प्रोफेसरचे नाव रानिया आहे</string>
+    <string name="q6">तुम्ही हंबरग कोलाजचे आहात</string>
+    <string name="q7">CN टॉवरचे पूर्ण नाव कॅनेडियन नॅशनल टॉवर आहे</string>
+    <string name="q8">नरेंद्र मोदी कॅनडाचे पंतप्रधान आहेत</string>
+    <string name="q9">आपला ग्रह त्रिनागल आहे.</string>
+    <string name="q10">षटकोनाला 6 बाजू आहेत</string>
+    <string name="result">परिणाम</string>
+    <string name="string_result1"> तुमचा स्कोअर आहे </string>
+    <string name="string_result2">बाहेर </string>
+    <string name="ignore">दुर्लक्ष करा</string>
+    <string name="save">जतन करा</string>
+    <string name="get_the_average">सरासरी मिळवा</string>
+    <string name="select_the_number_of_question">प्रश्नांची संख्या निवडा</string>
+    <string name="reset_the_result">निकाल रीसेट करा</string>
+    <string name="correct">योग्य</string>
+    <string name="incorrect">चुकीचे</string>
+    <string name="string_correctanswer">तुमचे बरोबर उत्तर आहे</string>
+    <string name="string_in">मध्ये</string>
+    <string name="string_attempts">प्रयत्न</string>
+    <string name="string_nothing">फाईलमध्ये काहीही नाही</string>
+    <string name="ok">ठीक आहे</string>
+
+</resources>
