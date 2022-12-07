@@ -85,13 +85,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
         super.onCreate(savedInstanceState);
-
         setContentView(R.layout.activity_main);
 
+        //set the language
         MyApp.localeManager.setNewLocale(this, Locale.getDefault().getLanguage());
-
 
         findView();
 
